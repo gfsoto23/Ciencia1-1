@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Resul{
+
+    background-color: rgb(223, 176, 243);
+    width: 400px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 15px;
+}
+.Resul h3 {
+    font-size: 36px;
+    color: rgb( 155, 89, 182 );
+}
+.entrada{
+    width: 400px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid rgb(175, 122, 197);
+    margin-top: 5px;
+}
+.salida{
+    margin-top: 10px;
+    margin-left: 165px;
+    padding: 15px;
+    border: 2px solid rgb(195, 155, 211);
+    border-radius: 8px;
+    background-color: rgb(215, 189, 226);
+}
